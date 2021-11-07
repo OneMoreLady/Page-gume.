@@ -11,7 +11,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Img/degrag.jpg);
+    background-image: url('Img/degrag.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
